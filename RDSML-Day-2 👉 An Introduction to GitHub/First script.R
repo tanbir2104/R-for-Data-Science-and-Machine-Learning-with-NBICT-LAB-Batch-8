@@ -1,2 +1,3 @@
-data = c(5,6,7)
-mean (data)
+data =c(2,4,6)
+mean(data)
+summary(data)
